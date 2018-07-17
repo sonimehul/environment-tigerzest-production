@@ -25,4 +25,4 @@ jenkins:
   Servers:
     Global:
       EnvVars:
-        DOCKER_REGISTRY: 664312392587.dkr.ecr.us-west-2.amazonaws.com
+        DOCKER_REGISTRY: 664312392587.dkr.ecr.us-west-2.amazonaws.com/myuscis-svc-repo
